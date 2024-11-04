@@ -15,5 +15,13 @@ namespace NewYear
         {
             Console.WriteLine($"С новым {year} годом!");
         }
+        public void MakeAWish()
+        {
+            Console.WriteLine("Под бой курантов загадайте желание!Запишите его на бумажке и сожгите ее, чтобы оно обязательно сбылось!");
+        }
+        public void GreetNewYear()
+        {
+            Console.WriteLine("Поздравляю всех с Новым годом!");
+        }
     }
 }
