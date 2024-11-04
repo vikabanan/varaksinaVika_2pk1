@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IIIKY\\source\\repos\\NewYear\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7C351C-2CF1-47B8-B432-1D92306493FB}|NewYear\\NewYear.csproj|c:\\users\\iiiky\\source\\repos\\newyear\\newyear\\newyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7C351C-2CF1-47B8-B432-1D92306493FB}|NewYear\\NewYear.csproj|solutionrelative:newyear\\newyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7C351C-2CF1-47B8-B432-1D92306493FB}|NewYear\\NewYear.csproj|c:\\users\\iiiky\\source\\repos\\newyear\\newyear\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7C351C-2CF1-47B8-B432-1D92306493FB}|NewYear\\NewYear.csproj|solutionrelative:newyear\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewYear.cs",
+              "DocumentMoniker": "C:\\Users\\IIIKY\\source\\repos\\NewYear\\NewYear\\NewYear.cs",
+              "RelativeDocumentMoniker": "NewYear\\NewYear.cs",
+              "ToolTip": "C:\\Users\\IIIKY\\source\\repos\\NewYear\\NewYear\\NewYear.cs",
+              "RelativeToolTip": "NewYear\\NewYear.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:15:44.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IIIKY\\source\\repos\\NewYear\\NewYear\\Program.cs",
+              "RelativeDocumentMoniker": "NewYear\\Program.cs",
+              "ToolTip": "C:\\Users\\IIIKY\\source\\repos\\NewYear\\NewYear\\Program.cs",
+              "RelativeToolTip": "NewYear\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:15:16.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
