@@ -11,6 +11,9 @@ namespace NewYear
         public int year { get; set; }
         public string namePet { get; set; }
         public string santa { get; set; }
-       
+        public void GiveHappyPeople()
+        {
+            Console.WriteLine($"С новым {year} годом!");
+        }
     }
 }
